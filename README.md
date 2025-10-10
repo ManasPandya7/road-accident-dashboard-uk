@@ -26,8 +26,8 @@ The dashboard provides a visual story of accident severity, conditions, and tren
 - Table: Severity by Vehicle Type  
 - Filters: Year, Severity, and Vehicle Type  
   
----  
-  
+--- 
+
 ## How to View  
 ### Option 1 – View Offline  
 1. Download the file [`ITe5421_project.twbx`](workbook/Road_Accident_Dashboard_ManasPandya.twbx)  
