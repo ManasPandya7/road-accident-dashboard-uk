@@ -5,7 +5,14 @@ Tableau dashboard analyzing UK road accidents by severity, weather, and road typ
 **Author:** Manas Pandya   
 **Tool:** Tableau (.twbx + .hyper)   
   
----  
+--- 
+## 🌐 Live Dashboard  
+[![View Dashboard](screenshots/dashboard_overview.png)](https://public.tableau.com/app/profile/manas.pandya/viz/Road_Accident_Dashboard_ManasPandya/Dashboard1?publish=yes)  
+> Click the image above to view the interactive Tableau dashboard online (no login needed).  
+  
+[![Live Tableau Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/manas.pandya/viz/Road_Accident_Dashboard_ManasPandya/Dashboard1?publish=yes)
+
+---
   
 ## Project Overview  
 This project analyzes patterns behind road accidents in the UK to answer:  
