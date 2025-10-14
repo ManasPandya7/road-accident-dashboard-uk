@@ -48,7 +48,3 @@ The dashboard provides a visual story of accident severity, conditions, and tren
 - **Single carriageways** are the most dangerous road type.  
 - **Cars** are involved in most fatal crashes.  
 - Although total accidents are decreasing, **fatal ones remain common** in cities like London and Manchester.  
-
----
-
-## 📁 Repository Structure
