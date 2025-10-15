@@ -11,9 +11,9 @@ Tableau dashboard analyzing UK road accidents by severity, weather, and road typ
 This project analyzes patterns behind road accidents in the UK to answer:  
 - Which road types are most dangerous?  
 - Do weather and road conditions affect severity?  
-- Are certain vehicles involved in fatal crashes more often?  
+- Are certain vehicles involved in fatal crashes more often?
   
-The dashboard provides a visual story of accident severity, conditions, and trends across UK districts.  
+  The dashboard visualizes accident severity, weather and road conditions, vehicle involvement, and trends across UK districts.  
   
 ---    
 ## 🌐 Live Dashboard  
@@ -39,7 +39,7 @@ The dashboard provides a visual story of accident severity, conditions, and tren
 ### Option 1 – View Offline  
 1. Download the file [`ITe5421_project.twbx`](workbook/Road_Accident_Dashboard_ManasPandya.twbx)  
 2. Install the free [Tableau Reader](https://www.tableau.com/products/reader/download)  
-3. Open the `.twbx` file and explore the interactive dashboard offline  
+3. Open the '.twbx' file and explore the interactive dashboard offline  
   
 ### Option 2 – Download the Data  
 - [`accident_data.csv`](data/accident_data.csv)  
